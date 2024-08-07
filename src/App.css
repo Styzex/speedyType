@@ -51,4 +51,5 @@ button {
   border-radius: 15px;
   padding: 5px;
   box-shadow: rgba(100, 108, 255, 0.1) 0px 0px 25px;
+  resize: none;
 }
