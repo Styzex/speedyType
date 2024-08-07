@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+button {
+  margin: 0.25rem;
+}
+
+#typing-area {
+  background-color: rgba(255, 255, 255, 0.025);
+  border-color: rgba(255, 255, 255, 0);
+  border-radius: 15px;
+  padding: 5px;
+  box-shadow: rgba(100, 108, 255, 0.1) 0px 0px 25px;
+}
